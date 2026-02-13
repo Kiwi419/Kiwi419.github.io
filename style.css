@@ -1,0 +1,32 @@
+.home-page{
+    background-color: #76a5af;
+}
+
+body{
+    font-family: fantasy;
+}
+
+.home-content-div{
+    text-align: center;
+}
+
+.home-content-div p{
+    font-size: small;
+}
+
+.navbar{
+    background-color:  #ffffff;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.navbar a{
+    text-decoration: none;
+    font-size: larger;
+}
+
+.facts-page{
+    background-color: #f6b26b;
+}
